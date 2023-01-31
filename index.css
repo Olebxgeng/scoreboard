@@ -8,6 +8,8 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
+    border: 5px solid white;
+    border-radius: 30px;
 }
 
 .score-board{
