@@ -51,6 +51,7 @@ h3{
 }
 
 #btn-newGame{
+    display: inline-block;
     width: 150px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #EEEEEE;
